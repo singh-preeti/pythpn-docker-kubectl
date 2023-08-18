@@ -1,0 +1,6 @@
+[target]
+external_host ansible_host=127.0.0.1
+
+[target:vars]
+ansible_port=2222
+ansible_user=vagrant

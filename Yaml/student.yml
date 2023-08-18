@@ -1,0 +1,9 @@
+student:
+  studentid: 101
+  firstname: Ravi
+  lastname: kumar
+  age: 23
+  weight: 67
+  isMale: true
+  dob: 20-10-1999
+  address: 1209 Sierra Tower
